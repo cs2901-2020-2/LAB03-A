@@ -6,7 +6,7 @@
       <class name="lab.ManageDemandTest">
         <methods>
           <include name="setup"/>
-          <include name="test_AllOrdersFromPeru"/>
+          <include name="test_AllOrdersFromColombia"/>
         </methods>
       </class> <!-- lab.ManageDemandTest -->
     </classes>

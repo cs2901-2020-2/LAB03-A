@@ -1,4 +1,10 @@
-# 01-clean-code
+# LAB 03 A
+
+Contexto:
+
+Se esta desarrollando una aplicacion que calcule el total con impuestos para generar un reporte para gerencia y revisar el presupuesto.
+
+Para ello se reciben ordenes por cada pais con la cantidad de Widgets a pedir.
 
 # Ejercicio 1: Refactorizar(Hacer que el codigo sea testeable)
 

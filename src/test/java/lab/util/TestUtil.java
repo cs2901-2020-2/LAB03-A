@@ -14,4 +14,11 @@ public class TestUtil {
         return ordersPeru;
     }
 
+    public static List<Order> buildOrdersColombia() {
+        List<Order> ordersPeru = new ArrayList<Order>();
+        ordersPeru.add(new Order("CO", 10L));
+        ordersPeru.add(new Order("CO", 10L));
+        return ordersPeru;
+    }
+
 }
